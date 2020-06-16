@@ -5,6 +5,7 @@ public class Branch1 extends MainStore {
     private int numberOfWheat;
     private int numberOfWrench;
     private int numberOfCutter;
+    private int testforcontribioter;
 
     ////////////////////////// constructor
     public Branch1 () {
