@@ -7,17 +7,8 @@ public abstract class Asnaf {
     private static final int meatPrice=50000;
     private static final int milkPrice=2000;
     private static final int iceCreamPrice=1000;
-    private static final int sodaPrice=4000;
-    private static final int coffeePrice=2000;
-    private static final int snacksPrice=2000;
-    private static final int chipsPrice=3000;
-    private static final int vegetablePrice=1000;
-    private static final int applePrice=3000;
-    private static final int ricePrice=4000;
-    private static final int wheatPrice=3000;
-    private static final int wrenchPrice=3000;
-    private static final int cutterPrice=3000;
 
+    System.out.println("it's a test");
     //////////////////////////////////////// getters
     public int getPastaPrice() {
         return pastaPrice;
